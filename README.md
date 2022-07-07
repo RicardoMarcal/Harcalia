@@ -1,0 +1,5 @@
+# Harcalia
+Projeto MyFirstGame - IFG 2022/1
+
+* Vídeo (youtube): https://www.youtube.com/watch?v=gqyCAo6pxiM
+* Descrição: o jogador começa no centro de um laboratório na companhia de 6 olhos que aparecem nos cantos e caso encostem nele, fará que ele perca 1 de estabilidade (ponto de vida). O jogador pode se movimentar utilizando as teclas WASD, atirar projéteis pressionando o botão esquerdo do mouse e teleportar pressionando o botão direito do mouse. Caso o jogador derrote os 6 olhos, o jogador irá "voltar no tempo em uma linha de tempo ligeiramente diferente", ou seja, a divergência (rodada atual) irá aumentar em 1, o que fará com que a cor do cenário seja levemente alterada, a velocidade dos olhos aumente e o intervalo de tempo entre os teleportes do jogador diminua, para facilitar a esquiva. Quando a estabilidade chegar a 0, o jogador irá "voltar no tempo" novamente, porém com a divergência de volta em 1, o que permite jogar novamente. É possível observar a pontuação máxima obtida no medidor record (abaixo da divergência).
